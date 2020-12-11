@@ -3,9 +3,10 @@ Token Economy - Wie das Web3 das Internet neu erfindet<br>
 November 2020<br>
 Die originale Ausgabe ist im June 2019 in englischer Sprache erschienen, unter dem Title “Token Economy: How Blockchain & Smart contracts revolutionize the Economy”. Diese Ausgabe basiert auf der zweiten überarbeiteten Ausgabe die im Juni 2020 erschienen ist, und zwar unter dem Titel: “Token Economy: How the Web3 reinvents the Internet”.
 
-# Read, fork or translate the book into other languages
-English Version: https://github.com/sherminvo/TokenEconomyBook/wiki.<br>
-German Version: is being translated and published in a seperate Github Reporistory: https://github.com/sherminvo/TokenEconomyBuch/wiki. <br>
+# Bearbeiten oder Übersetzten sie das Buch in andere Sprachen
+Folgende Versionen gibt es bereits:<br>
+Englische Version: https://github.com/sherminvo/TokenEconomyBook/wiki.<br>
+Deutsche Version (wird gerade bearbeitet und über die nächsten Monate online gestellt): https://github.com/sherminvo/TokenEconomyBuch/wiki.<br>
 
 # Über das Buch
 Dieses Buch bietet eine Zusammenfassung von bestehendem Wissen über Blockchain-Netzwerk und anderen Distributed Ledger Systemen, die das Rückgrat des Web3 bilden, aber geht einen Schritt weiter - es beleuchtet die sozio-ökonomischen Auswirkungen von Web3 Anwendungen: Smart Contracts, Dezentrale Autonome Organisationen (DAOs), Tokens und Decentralized Finance (DEFI). In diesem Buch werden bestehende Konzepte wie Geld, gesellschaftliche Steuerungsstrukturen, Realwirtschaft und Finanzwirtschaft beschreiben, und es wird beleuchtet, wie sich diese Konzepte durch das Web3 und deren Anwendungen verändern werden.
