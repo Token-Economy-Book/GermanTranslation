@@ -9,6 +9,14 @@ Folgende Versionen gibt es bereits:<br>
 **Deutsche Version** (wird gerade bearbeitet und über die nächsten Monate online gestellt): https://github.com/sherminvo/TokenEconomyBuch/wiki.<br>
 **Print Buch** (Paperback & Hardcopy) und **eBook** Version auf Amazon (https://amzn.to/2W7lQ8h) & andere online Buchshops verfügbar.
 
+Japanese Version: is currently being translated by a team in Japan and published in a separate Github Repository: https://github.com/Naokiakazawa/TokenEconomyBook_JP/wiki If you want to contribute to the collective translation please contact the repository owner Naoki Akazawa on Github or by email: naoki@fracton.ventures. He is coordinating the translation with a local community
+
+Portugese Version**: currently being translated by António Chagas, Courtnay Guimaraes, Jose Rui Sousa and Joana Camilo and will be published in a separate Github Repository soon. If you want to contribute to the collective translation please contact: jsousa@borsini.com, courtnay@uol.com.br, anthagas@hotmail.com
+
+Chinese Version: currently being coordinated and translated by Joanne Long. If you want to contribute to the collective translation please contact: xueting.long20@imperial.ac.uk
+
+Farsi Version: is currently being translated by in a telegram channel by Malihe Mahdavisefat. Due to the sanctions against Iran, Github limits Iranians from contributing, which is why Malieh started the translation in her Telegram channel: t.me/rayablockchain. Contact her directly for collaboration.
+
 # Über das Buch
 Dieses Buch bietet eine Zusammenfassung von bestehendem Wissen über Blockchain-Netzwerk und anderen Distributed Ledger Systemen, die das Rückgrat des Web3 bilden, aber geht einen Schritt weiter - es beleuchtet die sozio-ökonomischen Auswirkungen von Web3 Anwendungen: Smart Contracts, Dezentrale Autonome Organisationen (DAOs), Tokens und Decentralized Finance (DEFI). In diesem Buch werden bestehende Konzepte wie Geld, gesellschaftliche Steuerungsstrukturen, Realwirtschaft und Finanzwirtschaft beschreiben, und es wird beleuchtet, wie sich diese Konzepte durch das Web3 und deren Anwendungen verändern werden.
 
