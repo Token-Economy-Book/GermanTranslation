@@ -1,5 +1,5 @@
 # Deutsche Ausgabe
-* Gratis auf Github: https://github.com/sherminvo/TokenEconomyBuch/wiki.<br>
+* Gratis auf Github: https://github.com/Token-Economy-Book/GermanTranslation/wiki.<br>
 * Print (Paperback & Hardcover) und eBook Versionen sind auf Amazon (https://amzn.to/2W7lQ8h) & andere online Buchshops verfügbar.
 * Andere Sprachen: https://github.com/Token-Economy-Book/
 
